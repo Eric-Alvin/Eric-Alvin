@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on anything interesting, especially games!
 - 📫 How to reach me:
   - Steam: https://steamcommunity.com/id/SocratesGandhi/
-  - Twitter: (See Profile)
+  - Twitter: https://twitter.com/EricAlvin_
   - E-Mail: erictheneek@gmail.com
 
 <!---
