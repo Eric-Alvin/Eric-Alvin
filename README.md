@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Eric-Alvin
 - 👀 I’m interested in Games, Movies, Math, History, and other stuff!
-- 🌱 I’m currently learning C++
+<!-- - 🌱 I’m currently learning C++ -->
 - 💞️ I’m looking to collaborate on anything interesting, especially games!
 - 📫 How to reach me:
   - Steam: https://steamcommunity.com/id/EricAlvin/
