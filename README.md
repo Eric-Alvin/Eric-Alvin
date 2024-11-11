@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on anything interesting, especially games! -->
 - 📫 How to reach me:
   - Steam: https://steamcommunity.com/id/EricAlvin/
-  - Twitter: https://twitter.com/EricAlvin_/
+  - BlueSky: https://bsky.app/profile/ericalvin.bsky.social
   - E-Mail: erictheneek@gmail.com
 
 <!---
